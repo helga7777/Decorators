@@ -45,7 +45,7 @@ def multiply(multiplier):
         return new_function
     return make_trace
 
-url = 'D:\саша\работа\нетология\профессиональная работа с питон'
+url = 'D:\здесь ваш путь к файлу, в который будет записываться'
 @multiply(url)
 def summator(a,b):
     time.sleep(1)
